@@ -1,0 +1,15 @@
+# Node / Expo
+node_modules/
+.expo/
+.expo-shared/
+
+# Python
+venv/
+__pycache__/
+
+# Environment variables
+.env
+
+# OS files
+.DS_Store
+Thumbs.db
